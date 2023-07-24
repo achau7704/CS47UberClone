@@ -1,2 +1,2 @@
 # CS47UberClone
-This is an Uber App clone that I built for fun using React Native.
+This is a React Native project that I worked on with a partner (Andrew Kuik) for a final class project. It has some of the basic features and functionalities of the real Uber app.
